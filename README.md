@@ -19,13 +19,9 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 5 Car 
 
 ## PROGRAM
-```
-models.py
-admin.py
-```
+Include your program
 ## OUTPUT
-![alt text](<Screenshot 2025-09-17 125135.png>)
-
+Include your output
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
