@@ -19,12 +19,12 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 5 Car 
 
 ## PROGRAM
-
-Include Your program
-
+```
+models.py
+admin.py
+```
 ## OUTPUT
-Include your output
-
+![alt text](<Screenshot 2025-09-17 125135.png>)
 
 
 ## RESULT
